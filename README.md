@@ -50,7 +50,8 @@ Fill in the form with the details of the match.
 Click on "Predict Score" to view the predicted score.
 
 
-5. Deployment
+5. Deployment:
+   
 To deploy the application on Render, follow these steps:
 
 -Push your code to GitHub.
@@ -63,5 +64,5 @@ To deploy the application on Render, follow these steps:
 
 
 
-License
-This project is licensed under the MIT License.
+<b>License
+This project is licensed under the MIT License.<b>
