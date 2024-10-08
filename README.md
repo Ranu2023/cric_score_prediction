@@ -63,6 +63,7 @@ To deploy the application on Render, follow these steps:
 
 
 
+<br><br><br><br><br>
 
 <b>License
 This project is licensed under the [MIT] License.<b>
