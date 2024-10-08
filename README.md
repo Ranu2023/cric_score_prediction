@@ -65,4 +65,4 @@ To deploy the application on Render, follow these steps:
 
 
 <b>License
-This project is licensed under the MIT License.<b>
+This project is licensed under the [MIT] License.<b>
